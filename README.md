@@ -1,7 +1,7 @@
 # Spectrum-in-noise-detection-using-CNNs
 This small project aims to detect a spectrum in noise and to demostrate it by using a simulated dataset with 10k samples.
 
-To implement a spectum (in noise) detector, the file 'spectr_detect_train_v2.1.py' uses low-level APIs (e.g., tf.GradientTape) and cosomized 'loss' and 'metric' functions.
+To implement a spectum (in noise, Gaussian white noise with mean=255 and variance=60) detector, the file 'spectr_detect_train_v2.1.py' uses low-level APIs (e.g., tf.GradientTape) and cosomized 'loss' and 'metric' functions.
 Whereas, the file 'spectr_detect_train_v2.2.py' uses high-level APIs (e.g., keras.model.fit) to implement similar functions.
 
 Demos:
