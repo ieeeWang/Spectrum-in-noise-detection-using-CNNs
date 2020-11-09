@@ -15,4 +15,4 @@ Demos:
 
 ## Google Colab training
 To learn more about Google Colab Free gpu (Tesla T4 with the computing power 7!) training, visit this [tutorial](https://pylessons.com/YOLOv3-TF2-GoogleColab/)
-and refer to my next project [notebook](https://github.com/ieeeWang/ASSR_detector_CNN).
+and refer to my next project [ASSR_detector_CNN](https://github.com/ieeeWang/ASSR_detector_CNN).
