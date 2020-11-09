@@ -10,3 +10,9 @@ Demos:
 
 
 <img src ="images\demo_ROC_PR.png" width="800px" height="400px" />
+
+
+
+## Google Colab training
+To learn more about Google Colab Free gpu (Tesla T4 with the computing power 7!) training, visit this [tutorial](https://pylessons.com/YOLOv3-TF2-GoogleColab/)
+and refer to my next project [notebook](https://github.com/ieeeWang/ASSR_detector_CNN).
